@@ -1,0 +1,5 @@
+en:
+  devise:
+    failure:
+      user:
+        session_expired: "Session was expired."

@@ -1,0 +1,5 @@
+ru:
+  devise:
+    failure:
+      user:
+        session_expired: "Сессия истекла."
